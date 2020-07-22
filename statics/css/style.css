@@ -18,17 +18,15 @@ h2{
 }
 
 .identite{
+    background-color: lightpink;
 }
 
 .contact{
+    background-color: lightpink;
 }
 
 .profession{
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-    padding-left: 3.5rem;
-    font-size: 10rem;
-
+    background-color: lightpink;
 }
 
 .competence{
