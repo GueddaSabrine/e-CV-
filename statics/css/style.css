@@ -1,14 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@562;600&display=swap');
 
 h2{
-    font-family: 'Kaushan Script', cursive;
+    /*font-family: 'Kaushan Script', cursive;*/
+    font-family: 'Dancing Script', cursive;
     text-align: center;
     font-size: 2rem;
-    color: white;
-    text-shadow: 2px 2px 4px #000000;
+    color: darkgray;
+    text-shadow: 2px 2px 4px pink;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: lightpink;
+    /*!*background-color: lightpink;*!*/
 }
 
 .container{
@@ -18,15 +20,15 @@ h2{
 }
 
 .identite{
-    background-color: lightpink;
+    /*background-color: lightpink;*/
 }
 
 .contact{
-    background-color: lightpink;
+    /*background-color: lightpink;*/
 }
 
 .profession{
-    background-color: lightpink;
+    /*background-color: lightpink;*/
 }
 
 .competence{
