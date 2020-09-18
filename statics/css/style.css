@@ -1,6 +1,10 @@
 /*@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');*/
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@562;600&display=swap');
 
+body{
+}
+
+
 h2{
     /*font-family: 'Kaushan Script', cursive;*/
     font-family: 'Dancing Script', cursive;
@@ -11,6 +15,10 @@ h2{
     padding-top: 1rem;
     padding-bottom: 1rem;
     /*!*background-color: lightpink;*!*/
+}
+
+.ent{
+    background-image: url("gris.jpg");
 }
 
 .container{
@@ -39,6 +47,8 @@ ol.u {
 }
 
 .formation{
+
 }
 
-# sourceMappingURL=style.css.map
+#sourceMappingURL=style.css.map
+
