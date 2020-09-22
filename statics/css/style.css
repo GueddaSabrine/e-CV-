@@ -1,5 +1,6 @@
 /*@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');*/
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@562;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
+
 
 body{
 }
@@ -17,9 +18,9 @@ h2{
     /*!*background-color: lightpink;*!*/
 }
 
-.ent{
-    background-image: url("gris.jpg");
-}
+/*.ent{*/
+/*    background-image: url("gris.jpg");*/
+/*}*/
 
 .container{
 }
@@ -28,18 +29,20 @@ h2{
 }
 
 .identite{
-    /*background-color: lightpink;*/
+    background-color:#ced4da;
 }
 
 .contact{
-    /*background-color: lightpink;*/
+    background-color:#ced4da;
 }
 
 .profession{
-    /*background-color: lightpink;*/
+    background-color:#ced4da;
 }
 
 .competence{
+    background-color: lightpink;
+    
 }
 
 ol.u {
