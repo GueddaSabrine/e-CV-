@@ -12,15 +12,12 @@ h2{
     text-align: center;
     font-size: 2rem;
     color: darkgray;
-    text-shadow: 2px 2px 4px pink;
+    text-shadow: 2px 2px 4px gainsboro;
     padding-top: 1rem;
     padding-bottom: 1rem;
     /*!*background-color: lightpink;*!*/
 }
 
-/*.ent{*/
-/*    background-image: url("gris.jpg");*/
-/*}*/
 
 .container{
 }
@@ -29,20 +26,15 @@ h2{
 }
 
 .identite{
-    background-color:#ced4da;
 }
 
 .contact{
-    background-color:#ced4da;
 }
 
 .profession{
-    background-color:#ced4da;
 }
 
 .competence{
-    background-color: lightpink;
-    
 }
 
 ol.u {
